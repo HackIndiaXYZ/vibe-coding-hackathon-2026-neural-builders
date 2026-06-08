@@ -1,0 +1,39 @@
+{
+  "entities": {
+    "User": {
+      "title": "User Profile",
+      "description": "User profile and progress data",
+      "type": "object",
+      "properties": {
+        "fullName": { "type": "string" },
+        "educationLevel": { "type": "string" },
+        "major": { "type": "string" },
+        "skills": { 
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "targetCountry": { "type": "string" },
+        "opportunityScore": { "type": "number" },
+        "completedSteps": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "inProgress": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "careerRecommendations": {
+          "type": "array"
+        },
+        "updatedAt": { "type": "string" },
+        "createdAt": { "type": "string" }
+      }
+    }
+  },
+  "firestore": {
+    "users/{userId}": {
+      "schema": "User",
+      "description": "Stores user profiles with their personalized career recommendations and progress."
+    }
+  }
+}

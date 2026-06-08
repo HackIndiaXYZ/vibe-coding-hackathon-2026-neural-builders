@@ -1,0 +1,65 @@
+{
+  "header": {
+    "search": "Search for opportunities..."
+  },
+  "sidebar": {
+    "dashboard": "Dashboard",
+    "career": "Career Analyzer",
+    "scholarships": "Scholarships",
+    "portfolio": "Portfolio Builder",
+    "cv": "CV Assistant",
+    "study": "Study Planner",
+    "interview": "Mock Interview",
+    "history": "History",
+    "settings": "Settings",
+    "logout": "Logout"
+  },
+  "dashboard": {
+    "greeting": "Hi, {{name}}! 👋",
+    "subtitle": "Let's find your next great opportunity.",
+    "analyzing": "AI is analyzing your profile...",
+    "opportunityScore": "Opportunity Score",
+    "careerReadiness": "Career Readiness",
+    "scholarshipReady": "Scholarship Ready",
+    "portfolioStrength": "Portfolio Strength",
+    "careerInsights": "Career Insights",
+    "viewAll": "View All",
+    "yourProgress": "Your Progress",
+    "match": "Match",
+    "quickAccess": "Quick Access",
+    "emptyInsights": "Run career analyzer to see top insights.",
+    "profileSetup": "Profile Setup",
+    "careerAnalysis": "Career Analysis",
+    "scholarshipSearch": "Scholarship Search"
+  },
+  "settings": {
+    "title": "Settings",
+    "accountProfile": "Account & Profile",
+    "security": "Security",
+    "preferences": "Preferences",
+    "notifications": "Notifications",
+    "language": "Language",
+    "save": "Save Changes",
+    "toastSuccess": "Settings updated successfully"
+  },
+  "career": {
+    "title": "Career Analyzer",
+    "analyzeBtn": "Analyze My Profile",
+    "analyzing": "AI is finding your perfect fit...",
+    "emptyState": "Run the analyzer to discover career paths tailored to your profile.",
+    "match": "Match"
+  },
+  "cv": {
+    "uploadTitle": "Upload your CV / Resume",
+    "clickUpload": "Click to upload",
+    "orPaste": "OR PASTE TEXT",
+    "placeholder": "Paste the text content of your CV here for analysis...",
+    "analyzeBtn": "Analyze CV",
+    "analyzing": "Scanning CV...",
+    "results": "Analysis Results",
+    "score": "ATS Match Score",
+    "strengths": "Strengths",
+    "weaknesses": "Areas for Improvement",
+    "suggestions": "Actionable Suggestions"
+  }
+}

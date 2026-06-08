@@ -1,0 +1,6 @@
+{
+  "name": "LUMORA AI",
+  "description": "AI-Powered Student Career & Scholarship Assistant",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

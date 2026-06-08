@@ -1,0 +1,65 @@
+{
+  "header": {
+    "search": "Cari peluang..."
+  },
+  "sidebar": {
+    "dashboard": "Beranda",
+    "career": "Analisis Karir",
+    "scholarships": "Beasiswa",
+    "portfolio": "Pembuat Portofolio",
+    "cv": "Asisten CV",
+    "study": "Perencana Belajar",
+    "interview": "Simulasi Wawancara",
+    "history": "Riwayat",
+    "settings": "Pengaturan",
+    "logout": "Keluar"
+  },
+  "dashboard": {
+    "greeting": "Halo, {{name}}! 👋",
+    "subtitle": "Mari temukan kesempatan besarmu selanjutnya.",
+    "analyzing": "AI sedang menganalisis profil Anda...",
+    "opportunityScore": "Skor Peluang",
+    "careerReadiness": "Kesiapan Karir",
+    "scholarshipReady": "Kesiapan Beasiswa",
+    "portfolioStrength": "Kekuatan Portofolio",
+    "careerInsights": "Wawasan Karir",
+    "viewAll": "Lihat Semua",
+    "yourProgress": "Progres Anda",
+    "match": "Kecocokan",
+    "quickAccess": "Akses Cepat",
+    "emptyInsights": "Jalankan analisis karir untuk melihat wawasan utama.",
+    "profileSetup": "Pengaturan Profil",
+    "careerAnalysis": "Analisis Karir",
+    "scholarshipSearch": "Pencarian Beasiswa"
+  },
+  "settings": {
+    "title": "Pengaturan",
+    "accountProfile": "Akun & Profil",
+    "security": "Keamanan",
+    "preferences": "Preferensi",
+    "notifications": "Notifikasi",
+    "language": "Bahasa",
+    "save": "Simpan Perubahan",
+    "toastSuccess": "Pengaturan berhasil diperbarui"
+  },
+  "career": {
+    "title": "Analisis Karir",
+    "analyzeBtn": "Analisis Profil Saya",
+    "analyzing": "AI sedang mencari kecocokan sempurna Anda...",
+    "emptyState": "Jalankan analisis untuk menemukan jalur karir yang sesuai dengan profil Anda.",
+    "match": "Kecocokan"
+  },
+  "cv": {
+    "uploadTitle": "Unggah CV / Resume Anda",
+    "clickUpload": "Klik untuk mengunggah",
+    "orPaste": "ATAU TEMPEL TEKS",
+    "placeholder": "Tempel teks dari CV Anda di sini untuk dianalisis...",
+    "analyzeBtn": "Analisis CV",
+    "analyzing": "Memindai CV...",
+    "results": "Hasil Analisis",
+    "score": "Skor Kecocokan ATS",
+    "strengths": "Kelebihan",
+    "weaknesses": "Area Peningkatan",
+    "suggestions": "Saran Tindakan"
+  }
+}
